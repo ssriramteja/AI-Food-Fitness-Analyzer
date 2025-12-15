@@ -54,7 +54,7 @@ Below is a sample output of the **AI Food & Fitness Analyzer** showcasing:
 - Dish-level breakdown with AI-generated images  
 - Integrated chatbot (Need Bot) responses  
 
-![AI Food & Fitness Analyzer – Output Preview](screenshots/app_output_overview.png)
+![AI Food & Fitness Analyzer – Output Preview](app_output_overview.png)
 
 > Note: This screenshot represents a predicted UI output based on the application logic and design.
 
